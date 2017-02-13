@@ -1,0 +1,90 @@
+Dedicated chat for team development
+Idobata makes software development fun
+
+By developers for developers
+Lightweight, familiar UI inspired by IRC
+Integration with the tools that you use
+Sign Up
+
+Free for good
+
+
+WHY?
+WHY IDOBATA
+We made Idobata to solve developer's worries about team development.
+
+It's painful to maintain server for IRC...
+
+I wish I could @username style mention with type-ahead...
+
+I want easy and adequate integration with GitHub, CI and so on...
+
+How to see transversely all messages which I am interested in?
+
+Developer's chat should be more programmable...
+
+ORGANIZATION
+ONE ACCOUNT, MULTIPLE TEAMS
+In Idobata, you can belong to multiple organizations such as enterprises and communities. In Organization, you can create multiple rooms as many as you want.
+
+You can invite an outside person as a guest to a room. A guest can only join the rooms which allow access from the guest.
+
+From the Timeline view, you can cross view each room across each organization.
+
+
+INTEGRATION
+SUPPORT FOR MORE THAN 20 DEVELOPER TOOLS
+With Idobata's Webhook, you can easily set up notifications for development tools.
+
+For GitHub, which is widely used in particular, Idobata provides well-desined notification messages.
+
+Furthermore, you can customize the hooks which you use by contributing to idobata-hooks or creating Custom Webhooks for your own use.
+
+
+BOT
+CREATE A BOT AND CUSTOMIZE THE ROOM FREELY
+You can do anything by creating a bot. Idobata supports Hubot.
+
+Let's tell your bot "Tally up the count", "Translate it" or, ask "How is the weather?". In cooperation with home appliances, you can tell the bot "Turn on the heater".
+
+
+
+Desktop notifications 
+※ Google Chrome Extension
+
+
+GitHub compatible emoticon
+
+
+Entering rooms quickly which you starred 
+Long messages will be collapsed automatically
+
+
+Posting images by drag-and-drop
+
+
+Mentioning to all members with @all / @here
+
+
+Typeahead for @member / #room name
+
+
+Mobile app
+
+
+Markdown support
+
+
+Go back message logs unlimitedly
+
+ON-PREMISES
+
+Idobata is able to run on everyweher.
+
+Details of on-premises edition
+
+FEEDBACK
+FOR YOUR CONTRIBUTION TO SERVICE IMPROVEMENT
+We always appreciate hearing from you!
+
+Submit your feedback
