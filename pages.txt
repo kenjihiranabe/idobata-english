@@ -3,70 +3,71 @@ Idobata makes software development fun
 
 By developers for developers
 Lightweight, familiar UI inspired by IRC
-Integration with the tools that you use
+Integrates with the tools that you use
 Sign Up
 
-Free for good
+Free forever
+
+Why?
+There are tons of reasons to use Idobata.
+
+Idobata solves a lot of common problems with developer chat tools. 
+
+It's painful to maintain server for IRC.
+
+I wish I could autocomplete my @username-style mentions. 
+
+I want simple integration with GitHub, CI, etc... 
+
+I'd like to see every message thread I am following in at a glance.
+
+Developers' chat should be more programmable.
+
+Organization
+One account, multiple teams
+
+Idobota lets you create Organizations, different groupings of chat rooms.
+
+You can give your members access to all rooms in your Organization, or limit them to specific ones. 
+
+You can invite Idobata users who aren’t members of your Organization as guests. Again, you can limit that guest’s access to rooms you choose. 
+
+The Timeline view lets you view all rooms across your Organization.
+
+Integration
+Support for more than 20 developer tools
+
+Idobata's Webhooks are easily set up notifications that plug into other development tools.
+
+Idobata provides well-designed notification messages for popular services like Git-Hub.
+
+You can customize which Webhooks are used for each project you work on. 
+Plus you can create Custom Webhooks for your own use.
 
 
-WHY?
-WHY IDOBATA
-We made Idobata to solve developer's worries about team development.
-
-It's painful to maintain server for IRC...
-
-I wish I could @username style mention with type-ahead...
-
-I want easy and adequate integration with GitHub, CI and so on...
-
-How to see transversely all messages which I am interested in?
-
-Developer's chat should be more programmable...
-
-ORGANIZATION
-ONE ACCOUNT, MULTIPLE TEAMS
-In Idobata, you can belong to multiple organizations such as enterprises and communities. In Organization, you can create multiple rooms as many as you want.
-
-You can invite an outside person as a guest to a room. A guest can only join the rooms which allow access from the guest.
-
-From the Timeline view, you can cross view each room across each organization.
-
-
-INTEGRATION
-SUPPORT FOR MORE THAN 20 DEVELOPER TOOLS
-With Idobata's Webhook, you can easily set up notifications for development tools.
-
-For GitHub, which is widely used in particular, Idobata provides well-desined notification messages.
-
-Furthermore, you can customize the hooks which you use by contributing to idobata-hooks or creating Custom Webhooks for your own use.
-
-
-BOT
-CREATE A BOT AND CUSTOMIZE THE ROOM FREELY
-You can do anything by creating a bot. Idobata supports Hubot.
-
-Let's tell your bot "Tally up the count", "Translate it" or, ask "How is the weather?". In cooperation with home appliances, you can tell the bot "Turn on the heater".
-
+BOTS
+Use bots to customize your room
+Idobata supports Hubot, so you create and set up bots to do almost anything with your rooms, and then activate them simply by asking them in chat. 
+You ask your bot to translate messages or attachments, check the weather, keep a count, or even work with you smart appliances.
 
 
 Desktop notifications 
-※ Google Chrome Extension
+Google Chrome Extension
 
 
-GitHub compatible emoticon
+Compatible with GitHub emoticons
 
 
-Entering rooms quickly which you starred 
-Long messages will be collapsed automatically
+Set rooms to auto collapse long messages
 
 
-Posting images by drag-and-drop
+Post images with drag-and-drop
 
 
-Mentioning to all members with @all / @here
+Tag everyone in a room or an Organization with @all / @here
 
 
-Typeahead for @member / #room name
+Autocomplete @member / #room name
 
 
 Mobile app
@@ -75,16 +76,16 @@ Mobile app
 Markdown support
 
 
-Go back message logs unlimitedly
+Unlimited message logs 
 
-ON-PREMISES
+On-Premises
 
-Idobata is able to run on everyweher.
+You can run Idobata anywhere.
 
 Details of on-premises edition
 
-FEEDBACK
-FOR YOUR CONTRIBUTION TO SERVICE IMPROVEMENT
+Feedback
+Let us know how we can make Idobata better.
 We always appreciate hearing from you!
 
 Submit your feedback
